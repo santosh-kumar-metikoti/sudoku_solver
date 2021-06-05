@@ -22,8 +22,7 @@
 
 Sudoku Solver is basically your code that takes your input and produces output mathematically
 
-<b>Input</b>: format Space separated given numbers in the grid ( 0 for empty place ) in `sudoku_puzzles.txt`
-
+<b>Input</b>: format Space separated given numbers in the grid ( 0 for empty place )
 <b>Output</b>: format 9x9 sudoku grid
 
 A complete solution to this challenge take Input 9x9 and produce output grid 9x9
